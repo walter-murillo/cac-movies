@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "El secreto de sus ojos",
+    "director": "Juan José Campanella",
+    "year": 2009,
+    "image": "https://i.postimg.cc/V5HTFq88/El-secreto.jpg"
+  },
+  {
+    "id": 2,
+    "title": "El Planeta de los Simios",
+    "director": "Ni puta idea",
+    "year": "2024",
+    "image": "https://i.postimg.cc/dtrBVpnw/Espreando-Carroza.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Shrek 7: Ahora es Personal",
+    "director": "Que se yo",
+    "year": "2044",
+    "image": "https://i.postimg.cc/dtrBVpnw/Espreando-Carroza.jpg"
+  },
+  {
+    "id": 4,
+    "title": "El planeta de los monos",
+    "director": "Porro Fasuli",
+    "year": "2420",
+    "image": "https://i.postimg.cc/dtrBVpnw/Espreando-Carroza.jpg"
+  },
+  {
+    "id": 5,
+    "title": "El planeta de los monos +mogolicos",
+    "director": "Porro Fasuli",
+    "year": "2420",
+    "image": "https://i.postimg.cc/dtrBVpnw/Espreando-Carroza.jpg"
+  }
+]
